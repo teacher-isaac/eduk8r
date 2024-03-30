@@ -15,7 +15,8 @@ then
 	TARGET="$1"
 fi
 
-docker build -t $IMG_NAME .
+docker build -t $IMAGE_NAME .
+
 if [ "$TARGET" == "DEV" ]
 then
 	docker run \
@@ -26,11 +27,15 @@ then
 		--mount "type=bind,source=$PRG_PATH/www,destination=/var/www/eduk8r/www" \
 		--name $CONTAINER_NAME $IMAGE_NAME
 else
+	docker volume rm include lib www
+	docker volume create include
+	docker volume create lib
+	docker volume create www
 	docker run \
 		--detach=true \
 		--publish 127.0.0.1:8080:8080 \
 		--volume include:/var/www/eduk8r/include:ro \
-		--volume include:/var/www/eduk8r/lib:ro \
+		--volume lib:/var/www/eduk8r/lib:ro \
 		--volume www:/var/www/eduk8r/www:ro \
 		--name $CONTAINER_NAME $IMAGE_NAME
 fi
