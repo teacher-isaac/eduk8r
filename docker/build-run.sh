@@ -22,6 +22,7 @@ then
 		--detach=true \
 		--publish 127.0.0.1:8080:8080 \
 		--mount "type=bind,source=$PRG_PATH/include,destination=/var/www/eduk8r/include" \
+		--mount "type=bind,source=$PRG_PATH/lib,destination=/var/www/eduk8r/lib" \
 		--mount "type=bind,source=$PRG_PATH/www,destination=/var/www/eduk8r/www" \
 		--name $CONTAINER_NAME $IMAGE_NAME
 else
@@ -29,6 +30,7 @@ else
 		--detach=true \
 		--publish 127.0.0.1:8080:8080 \
 		--volume include:/var/www/eduk8r/include:ro \
+		--volume include:/var/www/eduk8r/lib:ro \
 		--volume www:/var/www/eduk8r/www:ro \
 		--name $CONTAINER_NAME $IMAGE_NAME
 fi

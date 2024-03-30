@@ -1,5 +1,5 @@
 FROM php:fpm-alpine3.18
-RUN apk --no-cache add nginx php-fpm php-pecl-xdebug
+RUN apk --no-cache add nginx php-fpm
 COPY docker/nginx.conf /etc/nginx/http.d/default.conf
 COPY docker/php-fpm-overrides.conf /usr/local/etc/php-fpm.d/~overrides.conf
 # bind mount points in DEV
