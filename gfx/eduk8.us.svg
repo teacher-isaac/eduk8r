@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="eduk8.us.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4752525"
+     inkscape:cx="423.65628"
+     inkscape:cy="213.52277"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <defs
+     id="defs2">
+    <rect
+       x="200.36112"
+       y="73.977255"
+       width="241.59959"
+       height="154.71667"
+       id="rect229" />
+    <rect
+       x="140.90154"
+       y="227.97342"
+       width="423.97345"
+       height="147.86192"
+       id="rect173" />
+    <rect
+       x="117.51712"
+       y="114.42369"
+       width="325.22868"
+       height="171.42569"
+       id="rect115" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="K8">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,4.2333335,10.583334)"
+       id="text227"
+       style="font-size:90.6667px;white-space:pre;shape-inside:url(#rect229);display:inline;fill:#006bff;fill-opacity:1"
+       inkscape:export-filename="text227.png"
+       inkscape:export-xdpi="97.147095"
+       inkscape:export-ydpi="97.147095"><tspan
+         x="200.36133"
+         y="154.19534"
+         id="tspan6718"><tspan
+           style="font-weight:bold"
+           id="tspan6716">K8</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label=".us"
+     transform="translate(39.158352,-18.520839)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,9.5250003,-5.2916669)"
+       id="text171"
+       style="font-size:64px;white-space:pre;shape-inside:url(#rect173);display:inline;opacity:0.713;fill:#000000"><tspan
+         x="140.90234"
+         y="284.59766"
+         id="tspan6722"><tspan
+           style="fill:#aa0500"
+           id="tspan6720">.us</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:label="edu"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(3.1750001,-6.3500003)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7041668,4.7625002)"
+       id="text113"
+       style="font-size:64px;white-space:pre;shape-inside:url(#rect115);display:inline;opacity:0.713;fill:#20c017;fill-opacity:1"><tspan
+         x="117.51758"
+         y="171.04883"
+         id="tspan6724">edu</tspan></text>
+  </g>
+</svg>
