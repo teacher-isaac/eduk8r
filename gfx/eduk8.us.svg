@@ -9,6 +9,9 @@
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="eduk8.us.svg"
+   inkscape:export-filename="eduk8.us.png"
+   inkscape:export-xdpi="96.643898"
+   inkscape:export-ydpi="96.643898"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,15 +27,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.4752525"
-     inkscape:cx="423.65628"
-     inkscape:cy="213.52277"
+     inkscape:zoom="2.950505"
+     inkscape:cx="216.23417"
+     inkscape:cy="148.78809"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2">
     <rect
@@ -64,13 +67,13 @@
        id="text227"
        style="font-size:90.6667px;white-space:pre;shape-inside:url(#rect229);display:inline;fill:#006bff;fill-opacity:1"
        inkscape:export-filename="text227.png"
-       inkscape:export-xdpi="97.147095"
-       inkscape:export-ydpi="97.147095"><tspan
+       inkscape:export-xdpi="101.97263"
+       inkscape:export-ydpi="101.97263"><tspan
          x="200.36133"
          y="154.19534"
-         id="tspan6718"><tspan
-           style="font-weight:bold"
-           id="tspan6716">K8</tspan></tspan></text>
+         id="tspan15701"><tspan
+           style="font-weight:bold;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#1e36d3;stroke:#d0eb16"
+           id="tspan15699">K8</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -84,9 +87,9 @@
        style="font-size:64px;white-space:pre;shape-inside:url(#rect173);display:inline;opacity:0.713;fill:#000000"><tspan
          x="140.90234"
          y="284.59766"
-         id="tspan6722"><tspan
-           style="fill:#aa0500"
-           id="tspan6720">.us</tspan></tspan></text>
+         id="tspan15705"><tspan
+           style="font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';fill:#a62613;stroke:#430f06"
+           id="tspan15703">.us</tspan></tspan></text>
   </g>
   <g
      inkscape:label="edu"
@@ -95,11 +98,13 @@
      transform="translate(3.1750001,-6.3500003)">
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-3.7041668,4.7625002)"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.57526,4.0339878)"
        id="text113"
        style="font-size:64px;white-space:pre;shape-inside:url(#rect115);display:inline;opacity:0.713;fill:#20c017;fill-opacity:1"><tspan
          x="117.51758"
          y="171.04883"
-         id="tspan6724">edu</tspan></text>
+         id="tspan15709"><tspan
+           style="font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';fill:#63e33e;stroke:#164109"
+           id="tspan15707">edu</tspan></tspan></text>
   </g>
 </svg>
