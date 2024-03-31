@@ -1,4 +1,4 @@
-#!/usr/bin/bash -x
+#!/usr/bin/bash
 #
 # usage: build-run.sh [DEV|PROD]
 
